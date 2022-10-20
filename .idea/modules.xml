@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeroesVsMonster/HeroesVsMonster.iml" filepath="$PROJECT_DIR$/HeroesVsMonster/HeroesVsMonster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/HvM.iml" filepath="$PROJECT_DIR$/.idea/HvM.iml" />
+    </modules>
+  </component>
+</project>
